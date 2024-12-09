@@ -46,16 +46,6 @@ The project used the following devices and connections:
 
 ---
 
-## 📂 Repository Structure  
-```plaintext
-CCNA-Mega-Lab/
-├── configs/         # Configuration files for all devices
-├── diagrams/        # Network topology diagrams
-├── troubleshooting/ # Issues encountered and solutions
-├── README.md        # Project documentation (this file)
-└── lab-notes.md     # Detailed steps and observations
-```
-
 ## 🤝 Acknowledgments  
 - Jeremy’s IT Lab for the detailed resources and tutorials.  
 - My instructors and peers for their support and insights.
